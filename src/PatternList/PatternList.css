@@ -1,0 +1,71 @@
+.pattern-list-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.pattern-list {
+    display: flex;
+    width: 75%;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.pattern-preview {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: 12px 24px;
+    border: solid 0.5px black;
+    /*box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.5);*/
+}
+
+.edit-pattern-button {
+    position: absolute;
+    right: 2px;
+    top: 2px;
+    cursor: pointer;
+    visibility: hidden;
+}
+
+.delete-button {
+    position: absolute;
+    right: 2px;
+    bottom: 2px;
+    cursor: pointer;
+    visibility: hidden;
+}
+
+.pattern-preview:hover .edit-pattern-button, .pattern-preview:hover .delete-button {
+    visibility: visible;
+}
+
+.pattern-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    width: 100%;
+}
+
+.new-pattern-button {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.title-icon {
+    display: flex;
+    align-items: center;
+    margin: 10px 0px;
+}
+
+.title {
+    font-size: 18px;
+    margin: 0px;
+    margin-right: 8px;
+}
