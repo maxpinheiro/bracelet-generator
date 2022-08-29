@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/braclet-generator/static/css/main.24a6e84c.css",
-    "main.js": "/braclet-generator/static/js/main.1884f047.js",
-    "static/js/787.b1085159.chunk.js": "/braclet-generator/static/js/787.b1085159.chunk.js",
-    "index.html": "/braclet-generator/index.html",
-    "main.24a6e84c.css.map": "/braclet-generator/static/css/main.24a6e84c.css.map",
-    "main.1884f047.js.map": "/braclet-generator/static/js/main.1884f047.js.map",
-    "787.b1085159.chunk.js.map": "/braclet-generator/static/js/787.b1085159.chunk.js.map"
+    "main.css": "/bracelet-generator/static/css/main.24a6e84c.css",
+    "main.js": "/bracelet-generator/static/js/main.c11f7967.js",
+    "static/js/787.b1085159.chunk.js": "/bracelet-generator/static/js/787.b1085159.chunk.js",
+    "index.html": "/bracelet-generator/index.html",
+    "main.24a6e84c.css.map": "/bracelet-generator/static/css/main.24a6e84c.css.map",
+    "main.c11f7967.js.map": "/bracelet-generator/static/js/main.c11f7967.js.map",
+    "787.b1085159.chunk.js.map": "/bracelet-generator/static/js/787.b1085159.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24a6e84c.css",
-    "static/js/main.1884f047.js"
+    "static/js/main.c11f7967.js"
   ]
 }
