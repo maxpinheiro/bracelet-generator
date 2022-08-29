@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bracelet-generator/static/css/main.9a603eb9.css",
+    "main.css": "/bracelet-generator/static/css/main.989c87de.css",
     "main.js": "/bracelet-generator/static/js/main.d5dfdcd4.js",
     "static/js/787.b1085159.chunk.js": "/bracelet-generator/static/js/787.b1085159.chunk.js",
     "index.html": "/bracelet-generator/index.html",
-    "main.9a603eb9.css.map": "/bracelet-generator/static/css/main.9a603eb9.css.map",
+    "main.989c87de.css.map": "/bracelet-generator/static/css/main.989c87de.css.map",
     "main.d5dfdcd4.js.map": "/bracelet-generator/static/js/main.d5dfdcd4.js.map",
     "787.b1085159.chunk.js.map": "/bracelet-generator/static/js/787.b1085159.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a603eb9.css",
+    "static/css/main.989c87de.css",
     "static/js/main.d5dfdcd4.js"
   ]
 }
